@@ -6,7 +6,8 @@
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="drawing" width="35"/> ### LENGUAJES Y HERAAMIENTAS <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="drawing" width="35"/>
 
-<img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" alt="React" width="50"/> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="VsCode" width="50"/> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="Html" width="50"/> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="Css" width="50"/> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50"/>
+<img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" alt="React" width="70"/> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="VsCode" width="50"/> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="Html" width="50"/> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="Css" width="50"/> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="70"/> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Fire" width="70"/> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node" width="70"/>
+
 
 
 
