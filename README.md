@@ -4,6 +4,7 @@
 + :sparkles: Actualmente estoy trabajando en [Burger Queen](https://github.com/osiris25/CDMX010-burger-queen-api-client)
 + :dizzy: Me encuentro aprendiendo **REACT**
 
-### LENGUAJES Y HERAAMIENTAS ![code](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
+### LENGUAJES Y HERAAMIENTAS <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="drawing" width="200"/>
+
 
 
