@@ -15,6 +15,9 @@
 
 ! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = osiris25 & show_icons = true & theme = radical )
 
+[! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = osiris25 & layout = compact )] (https://github.com/anuraghazra/github-readme- estadísticas)
+
+
 
 
 
