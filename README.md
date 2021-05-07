@@ -8,11 +8,15 @@
  ## LENGUAJES Y HERAAMIENTAS <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="drawing" width="35"/>
  
  ```html
-const code = ["JavaScript", "HTML", "CSS"];
+<div>
+ <h1>LENGUAJES</h1>
+ <p> Html </p>
+ <p> Css</p>
+ <p> JavaScript </p>
+</div>
 
 ```
 
-Esto es `código`.
 
 ## SIGUEME EN:  <img src="https://media.giphy.com/media/dwMIc0a30VETKt74sN/giphy.gif" alt="link" width="35"/>
 
