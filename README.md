@@ -30,8 +30,8 @@
 
 ## CONTACTAME EN:  <img src="https://media.giphy.com/media/dwMIc0a30VETKt74sN/giphy.gif" alt="link" width="35"/>
 
-<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="40"/><a href="https://www.linkedin.com/in/wendyrivasmtz/" ><h3>wendyrivasmtz</h3></a>
-<img src="https://media.giphy.com/media/MOygX2veJIIoe6hfVB/giphy.gif" width="40"/><h3>wendyosi25@gmail.com</h3>
+<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="40"/><a href="https://www.linkedin.com/in/wendyrivasmtz/" >wendyrivasmtz</a>
+<img src="https://media.giphy.com/media/MOygX2veJIIoe6hfVB/giphy.gif" width="40"/>wendyosi25@gmail.com
 <hr/>
 
 ![osiris25's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiris25&show_icons=true&theme=radical)
