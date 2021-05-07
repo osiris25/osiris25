@@ -28,9 +28,10 @@
 ```
 
 
-## SIGUEME EN:  <img src="https://media.giphy.com/media/dwMIc0a30VETKt74sN/giphy.gif" alt="link" width="35"/>
+## CONTACTAME EN:  <img src="https://media.giphy.com/media/dwMIc0a30VETKt74sN/giphy.gif" alt="link" width="35"/>
 
-<a href=" "><img src="https://img2.freepng.es/20190819/uzu/transparent-gmail-icon-google-icon-mail-icon-5d6460f11091f6.6488103015668595050679.jpg"/></a>
+<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/><a href="https://www.linkedin.com/in/wendyrivasmtz/"></a>
+<img src="https://media.giphy.com/media/MOygX2veJIIoe6hfVB/giphy.gif"/><a>wendyosi25@gmail.com</a>
 
 ![osiris25's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiris25&show_icons=true&theme=radical)
 
