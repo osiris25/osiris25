@@ -16,18 +16,25 @@
 </div>
 
 ```
-...js
- const 
-...
+  ```html
+<div>
+   <h1>HERRAMIENTAS</h1>
+   <p> GitHub </p>
+   <p> React</p>
+   <p> Firebase </p>
+   <p> Node.js</p>
+</div>
+
+```
 
 
 ## SIGUEME EN:  <img src="https://media.giphy.com/media/dwMIc0a30VETKt74sN/giphy.gif" alt="link" width="35"/>
 
 <a href=" "><img src="https://img2.freepng.es/20190819/uzu/transparent-gmail-icon-google-icon-mail-icon-5d6460f11091f6.6488103015668595050679.jpg"/></a>
 
-! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = osiris25 & show_icons = true & theme = radical )
+![osiris25's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiris25&show_icons=true&theme=radical)
 
-[! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = osiris25 & layout = compact )] (https://github.com/anuraghazra/github-readme- estadísticas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiris25&layout=compact)](https://github.com/osiris25/github-readme-stats)
 
 
 
