@@ -13,7 +13,7 @@
 
 <a href=" "><img src="https://img2.freepng.es/20190819/uzu/transparent-gmail-icon-google-icon-mail-icon-5d6460f11091f6.6488103015668595050679.jpg"/></a>
 
-! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true & theme = radical )
+! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = osiris25 & show_icons = true & theme = radical )
 
 
 
