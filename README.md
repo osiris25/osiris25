@@ -7,13 +7,12 @@
 
  ## LENGUAJES Y HERAAMIENTAS <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="drawing" width="35"/>
  
- ```js
+ ```html
 const code = ["JavaScript", "HTML", "CSS"];
 
-}
 ```
 
-
+Esto es `código`.
 
 ## SIGUEME EN:  <img src="https://media.giphy.com/media/dwMIc0a30VETKt74sN/giphy.gif" alt="link" width="35"/>
 
