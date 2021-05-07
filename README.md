@@ -30,7 +30,7 @@
 
 ## CONTACTAME EN:  <img src="https://media.giphy.com/media/dwMIc0a30VETKt74sN/giphy.gif" alt="link" width="35"/>
 
-<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="40"/><a href="https://www.linkedin.com/in/wendyrivasmtz/" >wendyrivasmtz</a>
+<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="40"/><a href="https://www.linkedin.com/in/wendyrivasmtz/" >wendyrivasmtz</a><br>
 <img src="https://media.giphy.com/media/MOygX2veJIIoe6hfVB/giphy.gif" width="40"/>wendyosi25@gmail.com
 <hr/>
 
